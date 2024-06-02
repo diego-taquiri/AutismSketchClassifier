@@ -6,7 +6,7 @@ AutismSketchClassifier is a computer vision project that utilizes a ResNet18 neu
 
 ## Project Structure
 
-- `data/`: Contains the datasets of sketches, including both artificial and real samples.
+- `data/`: Contains the datasets of sketches, consisting of artificial samples of austism sketches to test the model.
 - `models/`: Includes the pre-trained ResNet18 model and the final trained models.
 - `notebooks/`: Jupyter notebooks for data exploration, model training, and evaluation.
 - `src/`: Source code for data preprocessing, model training, and classification.
