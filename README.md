@@ -9,22 +9,17 @@ AutismSketchClassifier is a computer vision project that utilizes a ResNet18 neu
 - `data/`: Contains the datasets of sketches, consisting of artificial samples of austism sketches to test the model.
 - `models/`: Includes the pre-trained ResNet18 model and the final trained models.
 - `notebooks/`: Jupyter notebooks for data exploration, model training, and evaluation.
-- `src/`: Source code for data preprocessing, model training, and classification.
-- `results/`: Output results including accuracy metrics, confusion matrices, and visualizations.
 - `README.md`: Project overview and instructions.
 
 ## Datasets
 
-    •   QuickDraw Dataset: A large collection of 55 million sketches used for pre-training the ResNet18 model.
-    •   Artificial Autism Sketches: Generated samples to mimic the drawing style of children with autism.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+- QuickDraw Dataset: A large collection of 55 million sketches used for pre-training the ResNet18 model.
+- Artificial Autism Sketches: Generated samples to mimic the drawing style of children with autism.
 
 ## Acknowledgements
 
-    •   Thanks to the creators of the QuickDraw Dataset for providing a valuable resource for pre-training.
-    •   Special appreciation to the contributors who helped in collecting and annotating the autism sketch dataset.
+Thanks to the creators of the QuickDraw Dataset for providing a valuable resource for pre-training.
+
+Special appreciation to the contributors who helped in collecting and annotating the autism sketch dataset.
 
 
