@@ -12,6 +12,9 @@ AutismSketchClassifier is a computer vision project that utilizes a ResNet18 neu
 <img src="./images/methodology.png" alt="Descripción de la imagen" width="600"><br> 
 <p align="center"><b>Figure 2.</b> Classification methodology <br> 
 
+<p align="center">
+<img src="./images/accuracy.png" alt="Descripción de la imagen" width="600"><br> 
+<p align="center"><b>Figure 3.</b> Accuracy results <br> 
 
 ## Project Structure
 
