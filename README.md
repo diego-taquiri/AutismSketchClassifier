@@ -5,8 +5,12 @@
 AutismSketchClassifier is a computer vision project that utilizes a ResNet18 neural network to classify sketches drawn by children with autism. The unique characteristics of these drawings, such as the omission of specific facial features like pupils, serve as critical indicators for classification. This repository includes the implementation of the neural network training, the application of a KNN classifier, and the datasets used for training and evaluation.
 
 <p align="center">
-<img src="./images/methodology.png" alt="Descripción de la imagen" width="300"><br> 
-<p align="center"><b>Figure 1.</b> Methodology <br> 
+<img src="./images/drawings.png" alt="Descripción de la imagen" width="600"><br> 
+<p align="center"><b>Figure 1.</b> Sketches to classify <br> 
+
+<p align="center">
+<img src="./images/methodology.png" alt="Descripción de la imagen" width="600"><br> 
+<p align="center"><b>Figure 2.</b> Classification methodology <br> 
 
 
 ## Project Structure
